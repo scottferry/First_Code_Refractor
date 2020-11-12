@@ -14,8 +14,7 @@ a deployed link showcasing the site below.
   <li> Comments are clear and concise</li>
 </ul>
 ## Screenshots
-
-https://user-images.githubusercontent.com/73803101/98924224-8f122400-250f-11eb-8df6-72d5ae4699bf.png)
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/73803101/98928126-63de0380-2514-11eb-9297-10a4e392e2d0.png)
 
 ## Deployed Link
 [Link]

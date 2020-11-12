@@ -9,7 +9,9 @@ a deployed link showcasing the site below.
 ## Criteria 
 <ul>
   <li> Div tags are changed to semantic tags </li>
-  <li> </li>
+  <li> Structure of HTML and CSS tags follow logical sequence</li>
+  <li> Image elements have alt attributes</li>
+  <li> Comments are clear and concise</li>
 </ul>
 ## Screenshots 
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/73803101/98924224-8f122400-250f-11eb-8df6-72d5ae4699bf.png)

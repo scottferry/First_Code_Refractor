@@ -7,7 +7,7 @@ points in code we changed. The site should appear as closely to the screenshot b
 a deployed link showcasing the site below. 
 
 ## Screenshots 
-![Alt Text] (Assets/01-html-css-git-homework-demo.png)
+! [Alt Text] (Assets/01-html-css-git-homework-demo.png)
 
 ## Deployed Link
 [Link]

@@ -13,7 +13,9 @@ a deployed link showcasing the site below.
   <li> Image elements have alt attributes</li>
   <li> Comments are clear and concise</li>
 </ul>
+
 ## Screenshots
+
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/73803101/98928126-63de0380-2514-11eb-9297-10a4e392e2d0.png)
 
 ## Deployed Link

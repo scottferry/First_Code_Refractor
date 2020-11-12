@@ -13,10 +13,9 @@ a deployed link showcasing the site below.
   <li> Image elements have alt attributes</li>
   <li> Comments are clear and concise</li>
 </ul>
-## Screenshots 
-https://user-images.githubusercontent.com/73803101/98924224-8f122400-250f-11eb-8df6-72d5ae4699bf.png)
+## Screenshots
 
-#
+https://user-images.githubusercontent.com/73803101/98924224-8f122400-250f-11eb-8df6-72d5ae4699bf.png)
 
 ## Deployed Link
 [Link]
